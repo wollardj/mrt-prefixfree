@@ -3,6 +3,6 @@ Package.describe({
 });
 
 
-Pacakge.on_use(function(api) {
+Package.on_use(function(api) {
 	api.add_files('prefixfree.min.js', 'client')
 });
